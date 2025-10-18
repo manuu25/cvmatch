@@ -6,7 +6,7 @@ import ATS from "~/components/ATS";
 import Details from "~/components/Details";
 
 export const meta = () => ([
-    { title: 'Resumind | Resume Review' },
+    { title: 'CVMatch | AI-Powered ATS Resume Analysis' },
     { name: 'description', content: 'Detailed view of your resume' },
 ]);
 
